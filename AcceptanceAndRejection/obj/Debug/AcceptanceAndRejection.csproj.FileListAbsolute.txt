@@ -1,0 +1,7 @@
+C:\Users\ziaud\source\repos\ModelingAndSimulation\AcceptanceAndRejection\bin\Debug\AcceptanceAndRejection.exe.config
+C:\Users\ziaud\source\repos\ModelingAndSimulation\AcceptanceAndRejection\bin\Debug\AcceptanceAndRejection.exe
+C:\Users\ziaud\source\repos\ModelingAndSimulation\AcceptanceAndRejection\bin\Debug\AcceptanceAndRejection.pdb
+C:\Users\ziaud\source\repos\ModelingAndSimulation\AcceptanceAndRejection\obj\Debug\AcceptanceAndRejection.csproj.AssemblyReference.cache
+C:\Users\ziaud\source\repos\ModelingAndSimulation\AcceptanceAndRejection\obj\Debug\AcceptanceAndRejection.csproj.CoreCompileInputs.cache
+C:\Users\ziaud\source\repos\ModelingAndSimulation\AcceptanceAndRejection\obj\Debug\AcceptanceAndRejection.exe
+C:\Users\ziaud\source\repos\ModelingAndSimulation\AcceptanceAndRejection\obj\Debug\AcceptanceAndRejection.pdb

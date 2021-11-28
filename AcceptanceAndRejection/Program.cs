@@ -19,7 +19,7 @@ namespace AcceptanceAndRejection
                 for (int i = 0; ; i++)
                 {
                     float randomNumber = (float)new Random().NextDouble();
-                    float temp = (float)(60 * Math.Pow(randomNumber, 3) * Math.Pow((1 - randomNumber), 2));
+                    float temp = ((float)(60 * Math.Pow(randomNumber, 3) * Math.Pow((1 - randomNumber), 2)))/tX;
                     if(randomNumber <= temp & !Variates.Contains(temp))
                     {
                         Variates[counter] = temp;
